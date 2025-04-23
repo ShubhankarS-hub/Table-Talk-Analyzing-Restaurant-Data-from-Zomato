@@ -25,6 +25,8 @@ The dataset includes the following columns:
 ![image](https://github.com/user-attachments/assets/d62b1ea9-8957-49f8-8cd3-cf56636e1934)
 
 4. **Most Voted Restaurant**: Identify the restaurant with the most votes.
+![image](https://github.com/user-attachments/assets/d8b767c0-546b-490b-a12f-e085479357ed)
+
 5. **Online Orders Acceptance**: Analyze the percentage of restaurants offering online orders.
 ![image](https://github.com/user-attachments/assets/f5e1a1ff-2aad-4673-853c-596c82452de7)
 
